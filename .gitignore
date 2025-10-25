@@ -1,0 +1,21 @@
+# Python cache ve geçici dosyalar
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+
+# Virtual environment
+.venv/
+.venv1/
+env/
+venv/
+
+# IDE klasörleri
+.idea/
+.vscode/
+
+# Gizli yapılandırma
+*.env
+*.DS_Store
